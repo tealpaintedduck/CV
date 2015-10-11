@@ -4,7 +4,7 @@
 ##Skills
 
 ###Ruby
-- [TeemApp](https://github.com/Kyvyas/final_project) - My final project at Makers Academy. Uses Rails, HAML, PSQL, AWS, and Mapbox and Leaflet APIs. Tested with Rspec and Capybara, with tests also heavily relying on FactoryGirl and TimeCop.
+- [TeemApp](https://github.com/tealpaintedduck/final_project) - My final project at Makers Academy. Uses Rails, HAML, PSQL, AWS, and Mapbox and Leaflet APIs. Tested with Rspec and Capybara, with tests also heavily relying on FactoryGirl and TimeCop. Live demo [here](https://teemapp.herokuapp.com).
 - [InstaWow](https://github.com/tealpaintedduck/instagram-challenge) - An Instagram clone, built on Rails, with JQuery. Tested in Rspec and Capybara.
 
 ###Javascript
